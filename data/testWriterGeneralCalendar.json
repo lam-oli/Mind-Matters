@@ -1,0 +1,15 @@
+{"calendar": [
+    {
+        "mood": "happy",
+        "takenMeds": true,
+        "medications": [
+            "adderall",
+            "tylenol"
+        ]
+    },
+    {
+        "mood": "sad",
+        "takenMeds": true,
+        "medications": ["xanax"]
+    }
+]}

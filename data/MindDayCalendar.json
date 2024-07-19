@@ -1,0 +1,17 @@
+{"calendar": [
+    {
+        "mood": "pretty chillax",
+        "takenMeds": true,
+        "medications": ["drugz"]
+    },
+    {
+        "mood": "pretty chillax",
+        "takenMeds": true,
+        "medications": ["drugz"]
+    },
+    {
+        "mood": "sad",
+        "takenMeds": true,
+        "medications": ["swag"]
+    }
+]}
