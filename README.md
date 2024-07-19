@@ -1,4 +1,4 @@
-# My Personal Project
+# My Personal Project: UBC CPSC210 
 
 ## *Mind Matters*: A Mental Health App
 
@@ -6,8 +6,7 @@
 Mind Matters is a mental health app used to help anyone who may need it.
 Its main purposes are to keep track one's mood, medications, and if they have taken their medication. 
 This project is important to me because tech is the way to more accessible and innovative mental health resources. 
-Mental illness affects a lot of people close to me, and I want to attempt to build something that could potentially 
-help them and make an impact on a real issue.
+I want to attempt to build something that could potentially help people and make an impact on a real issue.
 
 
 **User Stories:**
@@ -23,7 +22,7 @@ help them and make an impact on a real issue.
 - As a user, I want to be able to load my days from my calendar.
 
 
-**Instructions For Grader:**
+**Instructions For User:**
 
 - You can generate the first required action related to adding Xs to a Y by selecting the 'Lets Start a Mind Day' 
 button (adds Xs to Ys).
